@@ -19,9 +19,9 @@ def dinner (food="salmon")
 end
 
 
-breakfast ("pancakes").downcase
-lunch ("peanut butter").downcase
-dinner ("broccoli").downcase
+breakfast ("pancakes")
+lunch ("peanut butter")
+dinner ("broccoli")
 breakfast 
 lunch
 dinner
