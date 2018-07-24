@@ -17,23 +17,22 @@
 
 # # call your methods here
 
-def breakfast (food="frosted flakes")
-  puts "Morning is the best time for #{food}!"
+def breakfast (breakfast="frosted flakes")
+  puts "Morning is the best time for #{breakfast}!"
 end
 
 
-def lunch (lunch_food="grilled cheese")
-  puts "Lunch is the best time for #{lunch_food}!"
+def lunch (lunch="grilled cheese")
+  puts "Lunch is the best time for #{lunch}!"
 end
 
-def dinner (dinner_food="salmon")
-  puts "The best dinner food is #{dinner_food}!"
+def dinner (dinner="salmon")
+  puts "The best dinner food is #{dinner}!"
 end
 
-breakfast ("pancakes")
-lunch("salad")
-dinner("spaghetti")
-
+breakfast 
+lunch
+dinner
 
 
 # # Call your methods without any arguments here
