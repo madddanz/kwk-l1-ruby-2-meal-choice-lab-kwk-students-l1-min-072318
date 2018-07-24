@@ -21,7 +21,19 @@ def breakfast (food="frosted flakes")
   puts "Morning is the best time for #{food}!"
 end
 
-breakfast("scrambled eggs")
+
+def lunch (lunch_food="grilled cheese")
+  puts "Lunch is the best time for #{lunch_food}!"
+end
+
+def dinner (dinner_food="salmon")
+  puts "The best dinner food is #{dinner_food}!"
+end
+
+breakfast
+lunch
+dinner
+
 
 
 # # Call your methods without any arguments here
