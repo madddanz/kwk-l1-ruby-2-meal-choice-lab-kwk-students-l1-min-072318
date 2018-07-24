@@ -23,8 +23,8 @@ puts breakfast ("pancakes")
 puts lunch ("peanut butter")
 puts dinner ("broccoli")
 puts breakfast 
-lunch
-dinner
+puts lunch
+puts dinner
 
 
 
