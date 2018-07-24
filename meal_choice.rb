@@ -30,9 +30,9 @@ def dinner (dinner_food="salmon")
   puts "The best dinner food is #{dinner_food}!"
 end
 
-breakfast
-lunch
-dinner
+breakfast ("pancakes")
+lunch("salad")
+dinner("spaghetti")
 
 
 
