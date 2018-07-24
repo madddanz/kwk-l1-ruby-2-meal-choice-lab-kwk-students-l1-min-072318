@@ -18,13 +18,13 @@ def dinner (food="salmon")
   puts "The best dinner food is #{food}!"
 end
 
-breakfast 
-lunch
-dinner
 
 breakfast ("pancakes").downcase
 lunch ("peanut butter").downcase
 dinner ("broccoli").downcase
+breakfast 
+lunch
+dinner
 
 
 
