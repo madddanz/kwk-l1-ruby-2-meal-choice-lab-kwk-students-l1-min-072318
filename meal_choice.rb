@@ -22,6 +22,11 @@ breakfast
 lunch
 dinner
 
+breakfast ("scrambled eggs")
+lunch ("salad")
+dinner ("tofu")
+
+
 
 # # Call your methods without any arguments here
 # puts snacks
