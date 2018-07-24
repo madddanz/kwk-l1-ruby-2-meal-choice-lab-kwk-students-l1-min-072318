@@ -21,7 +21,7 @@ def breakfast (food="frosted flakes")
   puts "Morning is the best time for #{food}!"
 end
 
-breakfast
+breakfast("scrambled eggs")
 
 
 # # Call your methods without any arguments here
