@@ -22,9 +22,9 @@ breakfast
 lunch
 dinner
 
-breakfast ("scrambled eggs")
-lunch ("salad")
-dinner ("tofu")
+breakfast ("pancakes").downcase
+lunch ("peanut butter").downcase
+dinner ("broccoli").downcase
 
 
 
